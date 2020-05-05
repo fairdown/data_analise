@@ -1,0 +1,1 @@
+Será utilizado para todos os dados de análise que criarei pelo google colab
